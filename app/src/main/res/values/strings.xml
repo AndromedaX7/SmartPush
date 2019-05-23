@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">智能线索推送</string>
+    <string name="title_activity_query">QueryActivity</string>
+    <string name="title_activity_zaitaoguiji">ZaitaoguijiActivity</string>
+</resources>
